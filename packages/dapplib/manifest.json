@@ -1,0 +1,10 @@
+{
+    "name": "Little Piggy Little Piggy",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": false,
+        "/category/nft/basic_nft": true
+    }
+}
